@@ -7,3 +7,5 @@ step 2.extract zip
 step 3.run synapseV2 as administrator (if u dont it will not work properly)
 
 step 4. have fun 
+
+-may get flagged by antivirus since it is a cheat-
